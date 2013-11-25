@@ -3,6 +3,9 @@ AutoText
 
 Faça seus textos aparecerem magicamente
 
-´´´javascript
-	$('input').autoText('Esse é um texto de teste');
-´´´
+```html
+<script src='jquery.js'></script>	
+<script type='text/javascript'>
+	$('input').autoText('Veja a mágica');
+</script>
+```
